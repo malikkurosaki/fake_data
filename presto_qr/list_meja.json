@@ -1,0 +1,272 @@
+{
+  "status": true,
+  "note": "Data customer table",
+  "data": [
+    {
+      "meja": "1",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "10",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "2",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "3",
+      "nama_wait": null,
+      "NAME": "malik",
+      "phone": "1234565543",
+      "email": "malik@gmail.com"
+    },
+    {
+      "meja": "4",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "5",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "6",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "7",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "8",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "9",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "BC1",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "BC2",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "BC3",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "BC4",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "BC5",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "BC6",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "DC1",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "DC10",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "DC11",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "DC2",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "DC3",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "DC4",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "DC5",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "DC6",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "DC8",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "DC9",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "T10",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "T11",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "T12",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "T13",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "T14",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "T15",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "T16",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "T17",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "T18",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "T19",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "T20",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    },
+    {
+      "meja": "T21",
+      "nama_wait": null,
+      "NAME": null,
+      "phone": null,
+      "email": null
+    }
+  ]
+}
