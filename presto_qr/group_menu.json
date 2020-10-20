@@ -1,0 +1,44 @@
+[
+  {
+    "group": "FOOD",
+    "subgroup": [
+      "PERSONAL",
+      "FRIED",
+      "REGULAR",
+      "ICE CREAM",
+      "MEAL",
+      "SALAD",
+      "LASAGNA",
+      "DESSERTS",
+      "CRISPY DEAL",
+      "GOURMET  BURGERS",
+      "PAKET",
+      "EXTRA PERS",
+      "EXTRA REG",
+      "GOJEK FOOD"
+    ]
+  },
+  {
+    "group": "BEVERAGE",
+    "subgroup": [
+      "COFFEE",
+      "COFFEE SMALL",
+      "COFFE LARGE",
+      "TEA SMALL",
+      "EXTRA",
+      "TEA LARGE",
+      "SOFT DRINK",
+      "JUICE",
+      "DRINKS",
+      "BEERS"
+    ]
+  },
+  {
+    "group": "OTHERS",
+    "subgroup": [
+      "OTHERS",
+      "GOJEK FOOD",
+      "GOJEK BVG"
+    ]
+  }
+]
