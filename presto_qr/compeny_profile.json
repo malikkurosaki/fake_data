@@ -1,0 +1,14 @@
+{
+  "status": true,
+  "data": {
+    "office": "CRISPPY PIZZA",
+    "name": "CRISPPY PIZZA",
+    "address": "CEROBOKAN",
+    "address1": "-",
+    "phone": "0361-67678",
+    "email": "PROBUS@MAIL.COM",
+    "urlBackend": "https:\/\/prestoqr.probussystem.com",
+    "urlFrontend": "https:\/\/front-prestoqr.probussystem.com\/#\/login",
+    "logo": "https:\/\/prestoqr.probussystem.com\/images\/logo.jpg"
+  }
+}
